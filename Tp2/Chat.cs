@@ -4,7 +4,7 @@ using System;
 
 namepace H23_DevInfo
 {
-    public class Chat
+    public class Chat: Animal
 {
     public string Nom { get; set; }
     public int Age { get; set; }
